@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    display: flex;
+}
+
+.container {
+    background-color: gold;
+    padding: 10%;
+    width: 67%;
+    height: 250px;
+    align-items: center;
+    margin: 5%;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name {
+    background-color: floralwhite;
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 280px;
+    font-size: x-large;
+    margin-left: 25%;
+}
